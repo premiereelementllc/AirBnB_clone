@@ -16,4 +16,4 @@ class TestBaseModel_save(unittest.TestCase):
             this test validate that creation proccess was correct.
         '''
 
-        self.assertEqual(self.save(), None)
+        self.assertEqual(self.save(), Non)
